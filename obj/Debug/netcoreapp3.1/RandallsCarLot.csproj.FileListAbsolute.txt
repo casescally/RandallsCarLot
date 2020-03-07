@@ -1,0 +1,10 @@
+/Users/Case/workspace/RandallsCarLot/obj/Debug/netcoreapp3.1/RandallsCarLot.csprojAssemblyReference.cache
+/Users/Case/workspace/RandallsCarLot/obj/Debug/netcoreapp3.1/RandallsCarLot.AssemblyInfoInputs.cache
+/Users/Case/workspace/RandallsCarLot/obj/Debug/netcoreapp3.1/RandallsCarLot.AssemblyInfo.cs
+/Users/Case/workspace/RandallsCarLot/bin/Debug/netcoreapp3.1/RandallsCarLot.deps.json
+/Users/Case/workspace/RandallsCarLot/bin/Debug/netcoreapp3.1/RandallsCarLot.runtimeconfig.json
+/Users/Case/workspace/RandallsCarLot/bin/Debug/netcoreapp3.1/RandallsCarLot.runtimeconfig.dev.json
+/Users/Case/workspace/RandallsCarLot/bin/Debug/netcoreapp3.1/RandallsCarLot.dll
+/Users/Case/workspace/RandallsCarLot/bin/Debug/netcoreapp3.1/RandallsCarLot.pdb
+/Users/Case/workspace/RandallsCarLot/obj/Debug/netcoreapp3.1/RandallsCarLot.dll
+/Users/Case/workspace/RandallsCarLot/obj/Debug/netcoreapp3.1/RandallsCarLot.pdb
